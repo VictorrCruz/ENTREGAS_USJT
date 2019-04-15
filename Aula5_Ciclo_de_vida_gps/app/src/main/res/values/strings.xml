@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aula2_Ciclo_de_vida_gps</string>
+    <string name="title_activity_lista_localizacoes">ListaLocalizacoesActivity</string>
+</resources>
